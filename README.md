@@ -239,7 +239,7 @@ The dataset is simulated but follows realistic e-commerce patterns and industry-
 Data Analyst | Python | Statistical Analysis
 
 - Email: victoria.j.abdulkadir@gmail.com
-- LinkedIn: [linkedin.com/in/victoria-abdul](https://linkedin.com/in/victoria-abdul)
+- LinkedIn: [linkedin.com/in/victoria-abdul](https://www.linkedin.com/in/victoriajabdul/)
 - GitHub: [github.com/vickieabdul](https://github.com/vickieabdul)
 
 ---
