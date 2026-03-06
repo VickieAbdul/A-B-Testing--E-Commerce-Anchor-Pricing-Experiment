@@ -220,7 +220,7 @@ Potential improvements for this analysis:
 
 ---
 
-## 📫 About This Project
+## About This Project
 
 This project was completed as part of my data analytics portfolio to demonstrate:
 - Statistical hypothesis testing skills
